@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ahmad0911
-- 👀 I’m interested in building android app
-- 🌱 I’m currently learning kotlin with android
-- 💞️ I’m looking to collaborate on Android
+- 👋 Hi there i'm Muhammed Ahmed
+- 👀 I’m Enthusiastic, reliable, highly motivated, Meticulous software engineer that love to proffer solution to problems. Fluent in languages and frameworks like java,javascript,react,angular and Sass. Seeking to leverage experience with multiple types of  software and application development.
+- 🌱 I’m interested in learning tech related stuffs...
+- 💞️ I’m looking to collaborate with more software developers out there to share ideas, build, solve and provide solution to problems.
 - 📫 How to reach me muhammedahmed0911@gmail.com
 
 <!---
